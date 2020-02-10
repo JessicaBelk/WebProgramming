@@ -1,0 +1,220 @@
+
+.home {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+ /* position: fixed;*/
+  top: 0;
+  width: 100%;
+  opacity: 0.75;
+}
+header img {
+    height: 80px;
+}
+
+.home2 {
+  float: left;
+}
+/* Name Header */
+#jbh{
+	text-align: center;
+	 color: white;
+	 font-family: "Franklin Gothic"; 
+	 font-size: 46px; 
+	 font-style:normal; 
+	 font-variant:normal; 
+}
+.home2 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.home2 a:hover {
+  background-color: #1111;
+  opacity: 0.75;
+  
+}
+
+
+/* index page ***********************************************************************/
+.fa {
+	float: right; 
+  padding: 20px;
+  font-size: 30px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  text-decoration: none;
+  margin: 50px 100px;
+   border-radius: 100%;
+   
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+  display: inline-block;
+   
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  display: inline-block;
+}
+ .fa-github{
+	background: black;
+	 color: white;
+  display: inline-block;
+}
+
+.fa-gsu{
+	background: blue;
+	 color: white;
+  display: inline-block;
+   font-family: "Franklin Gothic";
+ font-style:normal; 
+	 font-variant:normal;    
+ 
+}
+
+}
+
+table, th {
+  background-color: black;
+  color: white;
+}
+table {
+  width:100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+.pt {
+	text-align: center;
+}
+
+/* resume pic site ****************************************************************** */
+
+  #d1,#d2,#d3{
+      float:left;
+      height:470px; 
+      width:470px;
+      padding:0 10px;
+      }
+      #d1{ 
+       float:left;  
+                background-color:gray; 
+               
+      } 
+      #d2{ 
+      float:left;  
+                background-color:white; 
+               
+	  
+      } 
+      #d3{ 
+       float:right; 
+                background-color:gray; 
+               
+      } 
+      h2{ 
+       color: black;
+	 font-family: "Franklin Gothic"; 
+	 font-size: 46px; 
+	 font-style:normal; 
+	 font-variant:normal; 
+      text-align:center; 
+      }
+	img {
+		width: 100%;
+		height: 100%;
+	}
+	#a1{
+  background: #007bb5;
+  color: white;
+  float: right; 
+ margin: 5px 2px;
+border-radius: 0%;
+ width: 100px;
+  height: 50px;
+  float:left; 
+}
+ #a2{
+	background: black;
+	 color: white;
+	 float: right; 
+	  margin: 5px 2px;
+	  border-radius: 0%;
+	   width: 100px;
+  height: 50px;
+  float:left; 
+
+}
+#a3{
+	background: blue;
+	 color: white;
+	 float: right; 
+	  margin: 5px 2px;
+	  border-radius: 0%;
+	   width: 100px;
+  height: 50px;
+  float:left; 
+
+}
+#mv1 {
+  background: #3399ff;
+  padding: 20px;
+}
+
+#mv1 #mv2  {
+  background: #cce5ff;
+  margin: 5px;
+}
+/******************** Resume *********************************/
+
+#header {
+  height: 40px;
+  width: 100%;
+  background-color: black;
+  position: fixed;
+  z-index: 1;
+}
+.left {
+  height: 1000px;
+  width: 45px;
+  background-color: gray;
+  float: left;
+  position: fixed;
+}
+
+.right {
+  height: 1000px;
+  width: 45px;
+  background-color: gray;
+  float: right;
+  position: inherit;
+}
+.stuff {
+  display: inline-block;
+  margin-top: 6px;
+  margin-left: 55px;
+  width: 75%;
+  height: 1000px;
+}
+
+  

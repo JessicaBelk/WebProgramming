@@ -1,0 +1,22 @@
+head{
+	
+}
+body {
+  background-color: lightblue;
+}
+	p{
+		textindent:2cm;
+		
+		color:darkred;
+		
+		marginleft:6cm;
+		
+	}
+	h1{
+		color:red;
+		margin-left:2cm;
+	}
+	h2{
+		color:red;
+		margin-left:4cm;
+	}

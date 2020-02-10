@@ -1,0 +1,49 @@
+body {
+  background-color:gray;
+}
+	p1{
+		font-family: "Arial Bold"; 
+		font-size: 12px; 
+		font-style: normal;
+		color: khaki;
+		
+	}
+	p2{
+	font-family: "Arial Bold"; 
+		font-size: 14px; 
+		font-style: normal;
+		color: ivory;
+		
+	}
+	p3{
+		color:chocolate;
+		
+	}
+	p4{
+		font-family: "Trebuchet MS Bold"; 
+		font-size: 14px; 
+		font-style: normal;
+		color: gold;
+		marginleft:2cm;
+		marginright:2cm;
+	}
+	p5{
+		font-family: "Trebuchet MS"; 
+		font-size: 14px; 
+		font-style: italic;
+		color: gold;
+		marginleft:2cm;
+		marginright:2cm;
+		
+	}
+	h1{
+		font-family: "Arial Bold"; 
+		font-size: 14px; 
+		font-style: moccasin;
+		color: khaki;
+	}
+	h2{
+		font-family: "Arial"; 
+		font-size: 14px; 
+		font-style: normal;
+	}

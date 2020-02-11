@@ -1,0 +1,57 @@
+header {
+   background-color:#A8F0F0;
+  text-align: right;
+  
+  font-weight: normal;
+	font-family: "Century Gothic";
+	margin: 3px;
+	padding: 0px;
+}
+body{
+	background-image:url("background.gif");
+}
+
+section{
+	border:10px;
+	background-color: white;
+	margin-left:10%;
+	margin-right:10%;
+	border-style: solid;
+	border-color:white;
+}
+h1{
+	border-color: #A8F0F0;
+	 background-color:#A8F0F0;
+}
+
+.md{
+	border:5px;
+	background-color:#E8FBFB;
+	padding:5px;
+	margin-top:10px;
+	border-style: solid;
+  border-color: #A8F0F0;
+	
+	
+}
+/***** So fresh and so clean and Yes I'm Gucci !!! */////
+#gh{
+	border:5px;
+	font-size:14px;
+	border-color: #A8F0F0;
+	 background-color:#A8F0F0;
+}
+
+
+
+.date{
+	
+	border-bottom: 2px dashed blue;
+   
+
+	
+}
+#bottomlink{
+	 
+	 left: 150px;
+}

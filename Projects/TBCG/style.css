@@ -10,6 +10,15 @@ body {
   text-align: center;
   font-size: 6em;
 }
+#pnts{
+	float:left
+}
+#tm{
+float:left	
+}
+#jnk1{
+	display: flex;
+}
 
 
 .game-container {
